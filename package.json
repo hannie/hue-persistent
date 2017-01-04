@@ -1,0 +1,23 @@
+{
+  "name": "hue-persistent",
+  "version": "1.0.0",
+  "description": "Small NodeJS script to persist the color state of the Philips Hue when switching the lights on/off",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannie/hue-persistent.git"
+  },
+  "keywords": [
+    "Philips Hue"
+  ],
+  "author": "J. Timmerman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannie/hue-persistent/issues"
+  },
+  "homepage": "https://github.com/hannie/hue-persistent#readme",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "restler": "^3.4.0"
+  }
+}

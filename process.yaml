@@ -1,0 +1,4 @@
+apps:
+  - script   : ./main.js
+    name     : 'hue-persistent'
+    args     : '--host {IP} --user {USERNAME}'
